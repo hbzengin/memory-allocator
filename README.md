@@ -1,6 +1,6 @@
 # Memory Allocator
 
-This is a implementation of a simple memory allocator in C, with custom versions of `malloc`, `free`, `calloc`, and `realloc`. It's a simple example of how dynamic memory management works, using the `sbrk` system call and a linked list to keep track of the already-allocated blocks.
+This is a implementation of a simple memory allocator in C, with custom versions of `malloc`, `free`, `calloc`, and `realloc`. It's a simple example of how dynamic memory management works, using the `sbrk` system call and a linked list to keep track of the allocated blocks.
 
 ### Things To Know
 
